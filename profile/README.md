@@ -1,0 +1,1 @@
+<p align="center"><img src="https://raw.githubusercontent.com/leetcoin-releases/.github/refs/heads/main/res/pin/468123481-c052675d-cc83-4de9-b789-7c8ec6404e83.gif"/></p>
